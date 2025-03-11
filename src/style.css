@@ -2,4 +2,9 @@
 
 body{
     background: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+img{
+    width: 400px;
+    height: 300px;
 }
